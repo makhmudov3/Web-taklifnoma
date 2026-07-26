@@ -69,7 +69,7 @@ function App() {
         <Location t={t.location} />
         <Gift t={t.gift} />
         <footer>
-          <p>&copy; 2028 Abdulaziz & Sarvinoz</p>
+          <p>&copy; 2028 Abdulaziz & Ozodahon</p>
         </footer>
       </main>
 

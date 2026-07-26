@@ -31,10 +31,10 @@ const Location = ({ t }) => {
         </div>
         
         <div className="map-buttons">
-          <a href="https://yandex.uz/maps/-/CTfkBG6V" target="_blank" rel="noreferrer" className="outline-btn">
+          <a href="https://yandex.uz/maps/-/CTUb7Int" target="_blank" rel="noreferrer" className="outline-btn">
             {t.yandex}
           </a>
-          <a href="https://maps.app.goo.gl/hhXNpyp61utqGdmbA" target="_blank" rel="noreferrer" className="outline-btn">
+          <a href="https://maps.app.goo.gl/c88rYRJHybLk1qKc6" target="_blank" rel="noreferrer" className="outline-btn">
             {t.google}
           </a>
         </div>

@@ -25,7 +25,7 @@ const Gift = ({ t }) => {
     if (!name.trim() || !message.trim()) return;
     
     setStatus('loading');
-    const BOT_TOKEN = '8851709882:AAEQlPvzli9OT8szpwH29br1HF9DaRKHqv8';
+    const BOT_TOKEN = '8771677955:AAHjkGG9rtHQoEjssyF_OWJgNMFUZXD3JNo';
     const CHAT_ID = '6205699347';
     const text = `🎉 Yangi tilak!\n\n👤 Ism: ${name}\n💬 Tilak: ${message}`;
     

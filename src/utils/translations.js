@@ -9,7 +9,7 @@ export const translations = {
       invitation: 'Taklifnoma',
       scroll: 'PASTGA SURING',
       name1: 'ABDULAZIZ',
-      name2: 'SARVINOZ'
+      name2: 'OZODAHON'
     },
     message: {
       title: 'Aziz va qadrdon\ninsonimiz!',
@@ -31,8 +31,8 @@ export const translations = {
     },
     location: {
       title: 'To\'y manzili',
-      venue: '"VERSAL"\nTANTANALAR SAROYI',
-      address: 'Manzil: Toshkent, Shayxontohur tumani, Gulobod dahasi, 8/1.',
+      venue: '"SHODIYONA"\nTANTANALAR SAROYI',
+      address: 'Manzil: Namangan, Obi Hayot mahalla fuqarolar yigʻini, Amir Temur koʻchasi, 5.',
       yandex: 'YANDEX XARITASI',
       google: 'GOOGLE MAPS'
     },
@@ -61,7 +61,7 @@ export const translations = {
       invitation: 'Приглашение',
       scroll: 'ПРОЛИСТАЙТЕ ВНИЗ',
       name1: 'АБДУЛАЗИЗ',
-      name2: 'САРВИНОЗ'
+      name2: 'ОЗОДАХОН'
     },
     message: {
       title: 'Дорогие и\nблизкие нам люди!',
@@ -83,8 +83,8 @@ export const translations = {
     },
     location: {
       title: 'Место проведения',
-      venue: 'ДВОРЕЦ ТОРЖЕСТВ\n"VERSAL"',
-      address: 'Адрес: Ташкент, Шайхантахурский район, массив Гулабад, 8/1.',
+      venue: 'ДВОРЕЦ ТОРЖЕСТВ\n"SHODIYONA"',
+      address: 'Адрес: Наманган, СХГ Оби Хаёт, улица Амира Темура, 5.',
       yandex: 'ЯНДЕКС КАРТЫ',
       google: 'GOOGLE MAPS'
     },
