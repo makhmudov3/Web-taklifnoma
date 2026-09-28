@@ -21,7 +21,7 @@ const Timer = ({ t }) => {
     
     if (revealRef.current) observer.observe(revealRef.current);
     
-    const weddingDate = new Date('2028-08-08T18:00:00').getTime();
+    const weddingDate = new Date('2027-08-08T18:00:00').getTime();
 
     const timer = setInterval(() => {
       const now = new Date().getTime();

@@ -22,7 +22,9 @@ const Calendar = ({ t }) => {
         <h2>{t.title}</h2>
         <div className="calendar-grid">
           {t.days.map(day => <div key={day} className="day-name">{day}</div>)}
-          <div className="day empty"></div>
+          {Array.from({ length: 6 }, (_, i) => (
+            <div key={`empty-${i}`} className="day empty"></div>
+          ))}
           {Array.from({ length: 7 }, (_, i) => (
             <div key={i + 1} className="day">{i + 1}</div>
           ))}

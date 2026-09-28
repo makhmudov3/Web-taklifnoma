@@ -18,7 +18,7 @@ export const translations = {
       p3: 'Quvonchli kunimizda aziz mehmonimiz bo\'lishingizni intizorlik bilan kutamiz.'
     },
     calendar: {
-      title: 'AVGUST 2028',
+      title: 'AVGUST 2027',
       days: ['DU', 'SE', 'CHOR', 'PAY', 'JUMA', 'SHAN', 'YAK']
     },
     timer: {
@@ -70,7 +70,7 @@ export const translations = {
       p3: 'С нетерпением ждем вас в качестве дорогого гостя в наш радостный день.'
     },
     calendar: {
-      title: 'АВГУСТ 2028',
+      title: 'АВГУСТ 2027',
       days: ['ПН', 'ВТ', 'СР', 'ЧТ', 'ПТ', 'СБ', 'ВС']
     },
     timer: {
